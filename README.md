@@ -1,5 +1,9 @@
 # 見出しh1
 
+![](https://img.shields.io/badge/Version-v2.6.1-990000.svg) 
+![](https://img.shields.io/badge/Update-2021/05-222222.svg) 
+![](https://img.shields.io/badge/Since-2020/05-555555.svg)
+
 ## 見出しh2
 
 段落1 /* 1行空ける */
